@@ -1,0 +1,42 @@
+body {
+    background-color: #fff;
+    
+}
+
+main {
+    background-color: #fff;
+    min-height: 10vh;
+}
+
+nav {
+    background-color: rgb(239, 240, 240);
+
+
+}
+
+header{
+    background-color: brown;
+    min-height: 10vh;
+    color: #fff;
+    font-style: italic;
+    padding-left: 85px;
+    padding-top: 5px;
+    
+}
+
+footer {
+    background-color: grey;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    min-height: 10vh;
+}
+
+
+nav, main {
+    min-height: 80vh;
+}
+.col-6{
+padding-right: 45px;
+}
+
